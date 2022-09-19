@@ -1,4 +1,4 @@
-# Information-retrieval-and-topic-modeling-to-match-WHO-information-and-covid-conspiracy-tweets
+# Information retrieval and topic modeling to match WHO information and covid conspiracy tweets
 By /pernillekober & /EkaterinaBatueva
 
 Libraries: nltk, top2vec, pyLDAvis, PyTerrier, BeautifulSoup, regex, demoji, pickle.\
